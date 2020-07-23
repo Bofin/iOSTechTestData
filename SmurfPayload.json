@@ -6,12 +6,12 @@
     },
     {
         "name": "Scaredy",
-        "path": "SmurfImages/VanitySmurf.png",
+        "path": "SmurfImages/ScaredySmurf.png",
         "wikipediaInfo": "Scaredy Smurf easily gets scared by anything, whether it is a small insect or the noise of a storm. He is often teased by the other Smurfs because of this."
     },
     {
         "name": "Brainy",
-        "path": "SmurfImages/VanitySmurf.png",
+        "path": "SmurfImages/BrainySmurf.png",
         "wikipediaInfo": "Brainy Smurf considers himself the most intelligent Smurf in the village and an expert on everything, although his actual knowledge is questionable at best; often, his attempts to help in a given situation lead to even more problems. He can be distinguished from the others by the large glasses he wears."
     },
     {
@@ -20,6 +20,7 @@
     },
     {
         "name": "Grouchy",
+        "path": "SmurfImages/404Smurf.png",
         "wikipediaInfo": "Grouchy Smurf is the misanthropic grouch of the Smurf village. His catchphrase is \"I hate (something somebody else mentions)\" yet it is shown during the show that he is a good observer and notices kindness in others even if he is not playing active role in an event. Even though Grouchy Smurf portrays a role of a moaner within the group, he mostly wishes others to be happy and successful in order to get out of a problematic situation. Grouchy usually has a scowl on his face."
     },
     {
